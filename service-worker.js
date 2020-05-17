@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.d8500fed7f62da668ff3ee649fda920b.js"
+  "/view-firevue-shop/precache-manifest.7b6697da03879417fef952910713ffca.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "firevue-spa-onlineshop"});
